@@ -90,3 +90,55 @@ font-weight: 100;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
     font-weight: 100;
 }
+
+
+
+                     /* for offer section */
+   
+.offer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15vh;
+
+}                     
+.offertitle{
+    color: rgb(230, 42, 201);
+    font-size: 4vh;
+    font-weight: 50;
+    padding: 1vh;
+    margin: 0;
+}
+.subtitle {
+    padding: 0;
+    margin: 0;
+    font-size: 4vh;
+}
+.paragraph {
+    font-size: 2.3vh;
+    width: 38vw;
+    text-align: center;
+}
+.Combooffers{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 2vh;
+    width: 92vw;
+}
+.package{
+    border: 1px solid black;
+    border-radius: 3vh;
+    height: 70vh;
+    width: 28vw;
+    text-align: center;
+
+}
+.p-heading{
+    font-size: 3vh;
+}
+
+
+
+
+                     /* end of ffer section */

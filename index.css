@@ -1,6 +1,8 @@
 .topleft{
     display: flex;
     align-items: center;
+    color : black;
+    background-color: transparent;
     
 
 }
@@ -15,6 +17,8 @@
     height: 4vh;
     width: 1.5vw;
     margin:2vh;
+    mix-blend-mode : multiply;
+    
 }
 .topright button{
     height: 5vh;

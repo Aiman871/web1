@@ -1,0 +1,79 @@
+
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0vh 2vw;
+}
+.bottom{
+    display: flex;
+    padding: 2vh 5vw;
+    height: 80vh;
+    align-items: center;
+    
+}
+.topleft{
+    display: flex;
+    gap: 3vh;
+    
+}
+.bottomleft{
+    padding-right: 13vw;
+    width: 50vh;
+}
+.rightupper{
+    display: flex;
+    gap: 4vh;}
+.rightlower{
+    display: flex;
+    margin-top: 2vh;
+    gap: 4vh;
+}
+label{
+    font-size: 3vh;
+}
+.first,.second,.third,.fourth,.fifth{
+    display: flex;
+    flex-direction: column;
+    
+}
+.bottomleft h3{
+    font-size: 4.5vh;
+
+}
+.bottomleft h5{
+    font-size: 3.2vh;
+    font-weight: lighter;
+}
+input{
+    height: 5vh;
+    width: 15vw;
+    margin-top: 1.5vh;
+    border: none;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}
+.bottomright h4{
+    font-size: 3vh;
+}
+.submitbtn{
+    margin-top: 5vh;
+    font-size: 2.5vh;
+    height: 5vh;
+    width: 8vw;
+    background-color: black;
+    color: aliceblue;
+    border-radius:0.5vh ;
+}
+.backtobtn{
+    font-size: 2.5vh;
+     background-color: black;
+    color: aliceblue;
+    border-radius:0.5vh ;
+    height: 5vh;
+    width: 10vw;
+}
+.topleft img{
+    height: 5vh;
+    width: 1.5vw;
+    padding-top:1.5vh ;
+}

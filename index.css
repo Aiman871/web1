@@ -38,8 +38,9 @@
     font-size: 6.5vh;
     padding: 0 16vw;
     text-align: center;
-    margin-bottom: 3vh;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    margin-bottom: 3vh; 
+    font-family: "Geist", sans-serif;
+
 }
 .bottom p{
     font-size: 3vh;
@@ -61,8 +62,8 @@ font-weight: 100;
 }
 .aboutmain h1{
     font-size: 6.5vh;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
+    font-family: "Geist", sans-serif;
+
 }
 .aboutbottom{
     display: flex;
